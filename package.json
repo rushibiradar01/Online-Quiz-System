@@ -1,0 +1,20 @@
+{
+  "name": "online-quiz-system",
+  "version": "1.0.0",
+  "description": "Online Quiz System - Full Stack Application",
+  "private": true,
+  "scripts": {
+    "start": "cd Frontend && npm start",
+    "start:frontend": "cd Frontend && npm start",
+    "build:frontend": "cd Frontend && npm run build",
+    "test:frontend": "cd Frontend && npm test",
+    "install:all": "npm install && cd Frontend && npm install"
+  },
+  "keywords": [
+    "quiz",
+    "online",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC"
+}
